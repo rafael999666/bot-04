@@ -10,7 +10,7 @@ pkg install bash
 
 git clone https://github.com/rafael999666/bot-04
 
-cd botwasapv2
+cd bot-04
 
 bash install.sh
 
